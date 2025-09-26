@@ -1,5 +1,5 @@
 {
-    "name": "upgesao/upgestao-excel",
+    "name": "upgestao/upgestao-excel",
     "description": "Fork da biblioteca phpexcel com adequações para rodar no php8.4",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
     "homepage": "https://github.com/upgestao/upgestao-excel",
