@@ -1,8 +1,8 @@
 {
-    "name": "phpoffice/phpexcel",
-    "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
+    "name": "upgesao/upgestao-excel",
+    "description": "Fork da biblioteca phpexcel com adequações para rodar no php8.4",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
-    "homepage": "https://github.com/PHPOffice/PHPExcel",
+    "homepage": "https://github.com/upgestao/upgestao-excel",
     "type": "library",
     "license": "LGPL-2.1",
     "authors": [
@@ -20,10 +20,13 @@
         },
         {
             "name": "Erik Tilt"
+        },
+        {
+            "name": "Guilherme Melaninho"
         }
     ],
     "require": {
-        "php": "^5.2|^7.0",
+        "php": "^8.4",
         "ext-mbstring": "*",
         "ext-xml": "*",
         "ext-xmlwriter": "*"
